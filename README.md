@@ -1,4 +1,5 @@
 Este projeto foi desenvolvido com o objetivo de aprimorar conhecimentos em desenvolvimento front-end, React e TypeScript, funcionando como uma aplicação prática para aprendizado pessoal.
+---
 
 Pré-requisitos
 Caso deseje baixar e executar este projeto, é importante que sua máquina atenda aos seguintes requisitos:
